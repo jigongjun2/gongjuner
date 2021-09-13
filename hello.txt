@@ -1,7 +1,2 @@
-
 hello gid
-asd
-asd
-as
-das
-dasdasd
+my new hello.txt
