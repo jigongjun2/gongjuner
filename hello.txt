@@ -1,2 +1,0 @@
-hello gid
-my new hello.txt
